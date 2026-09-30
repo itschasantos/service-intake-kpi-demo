@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+.venv/
+.env*
+credentials*.json
+client_secret*.json
+token*.json
+inputs/
+outputs/
+*.csv
+*.xlsx
+*.tsv
